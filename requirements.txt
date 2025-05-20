@@ -7,10 +7,10 @@
 #tiktoken==0.5.2
 #sentence_transformers
 #tqdm==4.66.1
-pymongo
-datasets
-langchain
-sentence_transformers
-tqdm
-huggingface_hub
-llama-cpp-python
+pymongo==4.13.0
+datasets==3.6.0
+langchain==0.3.25
+sentence_transformers==4.1.0
+tqdm==4.67.1
+huggingface_hub==0.31.4
+llama-cpp-python==0.3.9
